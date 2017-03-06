@@ -1,0 +1,70 @@
+body {
+    background: #ebebeb;
+    min-width: 420px;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+/*top*/
+
+.top {
+    height: 400px;
+    background: #008ead;
+}
+
+.login {
+    background: rgb(255, 255, 255);
+    margin: -110px auto auto;
+    border: 1px solid rgb(231, 231, 231);
+    border-image: none;
+    width: 400px;
+    height: 265px;
+    text-align: center;
+    position: relative;
+}
+
+.input_1 {
+    margin-left: 18px;
+    width: 231px;
+    margin-top: 26px;
+    height: 40px;
+}
+
+.input_2 {
+    margin-left: 45px;
+    width: 231px;
+    margin-top: 12px;
+    height: 40px;
+}
+
+
+/*img*/
+
+.img {
+    width: 200px;
+    height: 100px;
+    margin: -351px auto;
+    position: relative;
+}
+
+.head {
+    position: absolute;
+    left: 49px;
+}
+
+.hand_left {
+    position: absolute;
+    top: 70px;
+    left: 8px;
+}
+
+.hand_right {
+    position: absolute;
+    top: 70px;
+    right: 13px;
+}
